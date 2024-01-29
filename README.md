@@ -1,14 +1,25 @@
 ## Research Interests
 Speech Recognition, Speaker Verification.
 
-
 ## Tech Stacks
 
-![Static Badge](https://img.shields.io/badge/Python-%233776AB)
-![Static Badge](https://img.shields.io/badge/Pytorch-%23EE4C2C)
-![Static Badge](https://img.shields.io/badge/C%2B%2B-%2300599C)
-![Static Badge](https://img.shields.io/badge/Github-%23181717)
-![Static Badge](https://img.shields.io/badge/Linux-%23FCC624)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-171515.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-3a3535.svg?style=for-the-badge&logo=linux&logoColor=FCC624)   
+
+![github stats](https://github-readme-stats.vercel.app/api?username=rndlwjs)
+
+## Contact
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rndlwjs@gmail.com)](mailto:rndlwjs@gmail.com) 
+<a href="https://www.linkedin.com/in/rndlwjs/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/rndlwjs/"/></a>
+
+### Github stats
+[![biscayan's github stats](https://github-readme-stats.vercel.app/api?username=biscayan&include_all_commits=true&show_icons=true&theme=react)](https://github.com/biscayan/github-readme-stats)
+
+### Algorithms
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rndlwjs)](https://solved.ac/rndlwjs/)
+
 
 <!--
 **rndlwjs/rndlwjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
