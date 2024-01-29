@@ -8,16 +8,14 @@ Speech Recognition, Speaker Verification.
 ![Pandas](https://img.shields.io/badge/pandas-171515.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-3a3535.svg?style=for-the-badge&logo=linux&logoColor=FCC624)   
 
-![github stats](https://github-readme-stats.vercel.app/api?username=rndlwjs)
-
 ## Contact
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rndlwjs@gmail.com)](mailto:rndlwjs@gmail.com) 
 <a href="https://www.linkedin.com/in/rndlwjs/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/rndlwjs/"/></a>
 
-### Github stats
-[![biscayan's github stats](https://github-readme-stats.vercel.app/api?username=biscayan&include_all_commits=true&show_icons=true&theme=react)](https://github.com/biscayan/github-readme-stats)
+## Github stats
+![github stats](https://github-readme-stats.vercel.app/api?username=rndlwjs)
 
-### Algorithms
+## Algorithms
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rndlwjs)](https://solved.ac/rndlwjs/)
 
 
