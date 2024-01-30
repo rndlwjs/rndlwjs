@@ -15,9 +15,6 @@ Speech Recognition, Speaker Verification.
 ## Github stats
 ![github stats](https://github-readme-stats.vercel.app/api?username=rndlwjs)
 
-## Algorithms
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rndlwjs)](https://solved.ac/rndlwjs/)
-
 
 <!--
 **rndlwjs/rndlwjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
