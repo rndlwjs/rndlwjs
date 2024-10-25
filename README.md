@@ -12,10 +12,6 @@ Speech Recognition, Speaker Verification.
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rndlwjs@gmail.com)](mailto:rndlwjs@gmail.com) 
 <a href="https://www.linkedin.com/in/rndlwjs/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/rndlwjs/"/></a>
 
-## Github stats
-![github stats](https://github-readme-stats.vercel.app/api?username=rndlwjs)
-
-
 <!--
 **rndlwjs/rndlwjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
