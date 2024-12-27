@@ -15,7 +15,7 @@ Speech Recognition, Speaker Verification, Text-to-Speech.
 
 ## Curriculum Vitae
 
-[![CV](https://img.shields.io/badge/CV-171515.svg?style=for-the-badge&logoColor=white)](https://github.com/rndlwjs/rndlwjs/20241201_cv.pdf)
+[![CV](https://img.shields.io/badge/CV-171515.svg?style=for-the-badge&logoColor=white)](https://github.com/rndlwjs/rndlwjs/blob/main/20241201_cv.pdf)
 
 - 24.11 ~ Currently finding positions in Speech AI
 - 24.04 ~ 24.10 AI Intern in NCSOFT
