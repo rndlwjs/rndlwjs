@@ -13,6 +13,10 @@ Speech Recognition, Speaker Verification, Text-to-Speech.
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rndlwjs@gmail.com)](mailto:rndlwjs@gmail.com) 
 <a href="https://www.linkedin.com/in/rndlwjs/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/rndlwjs/"/></a>
 
-## CV
+## Curriculum Vitae
 
-![Static Badge](https://img.shields.io/badge/CV)(https://github.com/rndlwjs/rndlwjs/241201_cv.pdf)
+[![CV](https://img.shields.io/badge/CV-171515.svg?style=for-the-badge&logoColor=white)](https://github.com/rndlwjs/rndlwjs/20241201_cv.pdf)
+
+- 24.11 ~ Currently finding positions in Speech AI
+- 24.04 ~ 24.10 AI Intern in NCSOFT
+- 22.01 ~ 24.04 Speech AI researcher in HUFS
