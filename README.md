@@ -1,5 +1,5 @@
 ## Research Interests
-Speech Recognition, Speaker Verification, Text-to-Speech.
+Speech Recognition, Speaker-related Tasks, Speech Synthesis.
 
 ## Tech Stacks
 
@@ -15,8 +15,8 @@ Speech Recognition, Speaker Verification, Text-to-Speech.
 
 ## Curriculum Vitae
 
-[![CV](https://img.shields.io/badge/CV-171515.svg?style=for-the-badge&logoColor=white)](https://github.com/rndlwjs/rndlwjs/blob/main/20241201_cv.pdf)
+[![CV](https://img.shields.io/badge/CV-171515.svg?style=for-the-badge&logoColor=white)](https://github.com/rndlwjs/rndlwjs/blob/main/250726.pdf)
 
-- 24.11 ~ Currently finding positions in Speech AI
-- 24.04 ~ 24.10 AI Intern in NCSOFT
-- 22.01 ~ 24.04 Speech AI researcher in HUFS
+- *25.04 ~ Current* : Speech AI researcher in AISRC (Soongsil University)
+- *24.04 ~ 24.10* : AI Intern in NCSOFT
+- *22.01 ~ 24.04* : Speech AI researcher in HUFS
